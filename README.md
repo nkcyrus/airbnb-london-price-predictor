@@ -72,3 +72,8 @@ Les SHAP values révèlent que les variables les plus influentes sont :
 Source : [Inside Airbnb](http://insideairbnb.com/get-the-data) — London listings
 - 59 767 logements après nettoyage
 - 65 features après feature engineering
+
+## 🌐 Demo
+
+- **API** : https://airbnb-london-price-predictor.onrender.com/docs
+- **App** : https://airbnb-london-price-predictor-hijgqb7ey8hb2flpdoyove.streamlit.app
